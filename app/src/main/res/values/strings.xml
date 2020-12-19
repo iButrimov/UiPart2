@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UiPart2</string>
+    <string name="orange_fragments_counter">ORANGE COUNTER</string>
+    <string name="blue_fragments_counter">BLUE COUNTER</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="orange">ORANGE</string>
+    <string name="blue">BLUE</string>
+</resources>
